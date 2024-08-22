@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs } = require('./libs/idiomas/total-idiomas.js')
 const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["595984838201"], ["51918534156"], ["123456789"]]
+global.owner = [["573154498492", "Owner", true], ["573154498492"], ["573027951232"], ["123456789"]]
 global.mods = []
 global.premium = []
 global.blockList = []
@@ -15,8 +15,8 @@ global.pagina = "atom.bio/blogansi"
 global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
 global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
 global.vs = '1.2'
-global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
-global.creador2 = 'ELIASAR YT'
+global.creador = 'WARRIOR FV'
+global.creador2 = 'WARRIOR FV'
 global.name = '𝑪𝑹𝑬𝑨𝑫𝑶𝑹'
 global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
@@ -83,9 +83,9 @@ global.APIKeys = {
 global.packname = ""
 global.author = `{
  "bot": "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-  "autor": "Eliasar YT",
+  "autor": "WARRIOR FV",
   "version": "1.2",
-  "creador": "Eliasar YT"
+  "creador": "Warrior FV"
 }
 `
  
@@ -113,25 +113,25 @@ global.verificar = fs.readFileSync('./media/menu2.jpg')
 
 //---------[ ENLACES ]---------
 global.md = 'https://github.com/Eliasar54/ansi-BOT-MD.git'
-global.yt = 'https://www.youtube.com/@Eliasar_yt'
-global.tiktok = 'https://www.tiktok.com/@eliasar_yt?_t=8mjJpoJfOBK&_r=1'
+global.yt = 'https://www.youtube.com/@supremo_-sh2sd'
+global.tiktok = 'https://www.tiktok.com/@francisco_vela_?_t=8p4oF08wZrp&_r=1'
 global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
 global.faceb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
-global.paypal = 'https://www.paypal.me/EliasarMoncada72' 
+global.paypal = 'https://www.paypal.me/Supremo1MsK' 
 
 global.host = 'https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV' //Infinity-host
 global.nna = 'https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36' //Update 
-global.nn = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //𝐘𝐮𝐆𝐢-𝐁𝐎𝐓
-global.nn2 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //test
-global.nn7 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //enlace YuGi-BOT
-global.multi = 'https://chat.whatsapp.com/CBY978TEw5N10tRhQiapZV' //Grupo náufrazapp
+global.nn = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //𝐘𝐮𝐆𝐢-𝐁𝐎𝐓
+global.nn2 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Loli & Nova
+global.nn3 = 'https://chat.whatsapp.com/DsB5reksVMg1YCuI54UGM1' //Grupo de Colaboracion
+global.nn4 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' // Grupo COL 2
+global.nn5 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Grupo COL 3
+global.nn6 = 'https://chat.whatsapp.com/GHSfeLncgM91h4ZDjPP0gC' //test
+global.nn7 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Grupo ayuda sobre el bot
+global.nn8 = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //enlace YuGi-BOT
+global.multi = 'https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6' //Grupo náufrazapp
 global.nna2 = 'JHnIQUdCGBHHsA6naIGjHG'
-global.n2 = "https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36"
+global.n2 = "https://chat.whatsapp.com/Bu0GPw5H0qj6GwBpzumaq6"
 //---------[ INFO ]--------- 
 global.info = { wait: '*_■■□□□40%_*', 
 waitt: '*_■■■□□60%_*', 
